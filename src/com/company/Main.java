@@ -9,5 +9,9 @@ public class Main {
         Audii.headlights="red";
         Audii.engineCapac="v12";
         Audii.doors="7";
+
+        System.out.println("Hi this is my car");
+        System.out.println("The car is hard top convertible");
+        System.out.println("The car is fast");
     }
 }
